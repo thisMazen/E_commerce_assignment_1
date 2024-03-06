@@ -1,2 +1,2 @@
 # E Commerce Assignment 1
-This is an Burger Bar website
+This is a Burger Bar website
